@@ -1,0 +1,43 @@
+.rotate-text {
+  transform: rotate(90deg);
+}
+
+a {
+    word-break: break-word;
+    word-wrap: normal;
+    white-space: normal;
+}
+
+.form-xs {
+    font-size: 12px;
+    line-height: 1.5; /* If Placeholder of the input is moved up, rem/modify this. */
+}
+
+.input-xs {
+  height: 22px;
+  padding: 2px 5px;
+  font-size: 12px;
+  width: auto;
+  border-radius: 3px;
+  line-height: 1.5;
+}
+
+.margin-top-20 {
+  margin-top: 20px;
+}
+
+.margn-left-20 {
+  mergin-left: 20px;
+}
+
+.margn-left-10 {
+  mergin-left: 10px;
+}
+
+.width-200 {
+  width: 200px;
+}
+
+.width-100 {
+  width: 100px;
+}
